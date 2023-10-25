@@ -4,9 +4,9 @@
 !o::Send, ó
 !u::Send, ú
 !n::Send, ñ
-!A::Send, Á
-!E::Send, É
-!I::Send, Í
-!O::Send, Ó
-!U::Send, Ú
-!N::Send, Ñ
+!+a::Send, Á
+!+e::Send, É
+!+i::Send, Í
+!+o::Send, Ó
+!+u::Send, Ú
+!+n::Send, Ñ
